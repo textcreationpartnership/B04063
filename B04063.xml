@@ -1,0 +1,2445 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of ships taken since July, 1677 from his Majesties subjects, by the corsairs of Algier. With their names, masters names, and places to which they belong'd, and time of taking : with a modest estimate of the loss.</title>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04063</idno><idno type="EEBO-CITATION">53981542</idno>
+  <idno type="VID">180274</idno>
+  <idno type="EEBO-PROQUEST">2240871818</idno>
+  
+            <idno type="STC">Wing L2405B</idno>
+            <idno type="STC">ESTC R229384</idno>
+            <idno type="OCLC">53981542</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180274)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of ships taken since July, 1677 from his Majesties subjects, by the corsairs of Algier. With their names, masters names, and places to which they belong'd, and time of taking : with a modest estimate of the loss.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Printed in 12 columns, 6 on each side.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Privateering --  Algeria --  17th century --  Early works to 1800.</term>
+               <term type="topical_term">Ship registers --  Great Britain --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table">
+            <pb facs="tcp:180274:1"/>
+            <pb facs="tcp:180274:2"/>
+            <head>A LIST of SHIPS Taken since JULY, 1677. from His Majesties Subjects, by the Corsairs of ALGIER. With their Names, Masters Names, and places to which they belong'd, and time of taking: With a modest Estimate of the Loss.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Ships Names.</cell>
+                     <cell role="label">Of</cell>
+                     <cell role="label">Masters Names.</cell>
+                     <cell role="label">Case.</cell>
+                     <cell role="label">Number of Men on Board.</cell>
+                     <cell role="label" cols="2">When taken.</cell>
+                  </row>
+                  <row>
+                     <cell>THe <hi>Ann and Jane</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>Pierce Smith</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1677▪</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Isabella</hi>
+                     </cell>
+                     <cell>
+                        <hi>Monross</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Williamson</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Ark</hi>
+                     </cell>
+                     <cell>
+                        <hi>Barnstable</hi>
+                     </cell>
+                     <cell>
+                        <hi>George Breas</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>George and Peter</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Christian Howard</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Dorothy</hi>
+                     </cell>
+                     <cell>
+                        <hi>Yarmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Gilbert Wakeham</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Aug. </hi>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Richard</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Podd</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>12</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Jane</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Michael Baron</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>
+                        <hi>Sept.</hi> 7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Fortune</hi>
+                     </cell>
+                     <cell>
+                        <hi>Waterford</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Fitz-Gerald</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>12</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Prosperous</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Vicars</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>John and Elizabeth</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Eagleton</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>8</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>St. George Ketch</hi>
+                     </cell>
+                     <cell>
+                        <hi>Topsham</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Harris</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>9</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Lyon</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>Walter Davis</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>29</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Pearl</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Smith</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>8</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Tredegah</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Wraxell</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>16</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Katherine</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Samuel Martin</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>8</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Consent</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Cowel</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>8</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Happy Return</hi>
+                     </cell>
+                     <cell>
+                        <hi>Margaret</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Brooke</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>13</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>John and Thomas Ketch</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>John Babeige</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>8</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Priscilla</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>George Matthews</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>7</cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Phoenix</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Spurrall</hi>
+                     </cell>
+                     <cell>At <hi>Alg.</hi> 40</cell>
+                     <cell>49</cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Hopewell</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dartmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Langdon</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>8</cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Charles</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Thomas Gallant</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>8</cell>
+                     <cell>
+                        <hi>Octob.</hi> 7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Lion</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Fowle</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>17</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Endeavour</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Thomas Rouse</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>19</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Susanna</hi>
+                     </cell>
+                     <cell>
+                        <hi>New York</hi>
+                     </cell>
+                     <cell>
+                        <hi>Jacob Leslear</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>14</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Desire</hi>
+                     </cell>
+                     <cell>
+                        <hi>Topsham</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Feppard</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Madera Merchant</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Shaddoch</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>10</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Robert</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dartmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Hellman</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>6</cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e <hi>Trevela Merchant</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Pye</hi>
+                     </cell>
+                     <cell>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <hi>Algier.</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Nov.</hi> 24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e <hi>Margaret and John</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Benj. Leverto<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t <hi>Algier.</hi>
+                     </cell>
+                     <cell>11</cell>
+                     <cell>
+                        <hi>Dec.</hi> 2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e <hi>Endeavour</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Powell</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>15</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                        <hi>Submission Ketch</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Boniface Giffard</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>9</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e <hi>Canary Merchant</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Thomas Bray</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>15</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e <hi>Hopewell</hi>
+                     </cell>
+                     <cell>
+                        <hi>Falmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry King</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Jan.</hi> 1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e <hi>Samuel</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>George Lam<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>edeemed.</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>Jan.</hi> 5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e <hi>Ann</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Walter Elvin</hi>
+                     </cell>
+                     <cell>E<gap reason="illegible" resp="#murp" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ped.</cell>
+                     <cell>7</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>John</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Hutchins</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Robert and John</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Daniel</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Golden Lion</hi>
+                     </cell>
+                     <cell>
+                        <hi>Jersey</hi>
+                     </cell>
+                     <cell>
+                        <hi>Philip Pepone</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Thomas and Matthew</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Joseph Bonisted</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Speedwell</hi>
+                     </cell>
+                     <cell>
+                        <hi>Yarmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Joseph Woolstone</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>9</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Bridgwater Merchant</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Charles Beeves</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e <hi>Adventure</hi>
+                     </cell>
+                     <cell>
+                        <hi>Harwich</hi>
+                     </cell>
+                     <cell>
+                        <hi>Edward Woodward</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>Feb.</hi> 3</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>George</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Alexander</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>William and Ralph</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Sheffield</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>7</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Hopewell</hi>
+                     </cell>
+                     <cell>
+                        <hi>Ramesgate</hi>
+                     </cell>
+                     <cell>
+                        <hi>Richard Fowler</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>7</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <hi>Yarmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Prottz</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>23</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Thomas Harman</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>30</cell>
+                     <cell>19</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Happy Return</hi>
+                     </cell>
+                     <cell>
+                        <hi>Liverpool</hi>
+                     </cell>
+                     <cell>
+                        <hi>Richard Hachwith</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>July</hi> 3</cell>
+                     <cell>1678.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Judah</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Lane</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Bilboa Factor</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Herbert Allen</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>7</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Elizabeth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dartmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Nicholas Turtill</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>7</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Norwich</hi>
+                     </cell>
+                     <cell>
+                        <hi>Hull</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Lightly</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>7</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Ann</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>John Athenson</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>11</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Hannah</hi>
+                     </cell>
+                     <cell>
+                        <hi>Topsham</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Shonear</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>7</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Blessing</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Morgan</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Delight</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bonaventure Cowell</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Arms of England</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>John Guthree.</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Sept.</hi> 24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>William</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Alden</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>23</cell>
+                     <cell>
+                        <hi>Octob.</hi> 20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Ʋnity.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Pensans</hi>
+                     </cell>
+                     <cell>
+                        <hi>Edward Pope</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>
+                        <hi>Octob.</hi> 22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Edward and Ann</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Webster</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>10</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Return</hi>
+                     </cell>
+                     <cell>
+                        <hi>Kingsale</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Knight</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>Some wanting. 4</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Charity Ketch</hi>
+                     </cell>
+                     <cell>
+                        <hi>Lime</hi>
+                     </cell>
+                     <cell>
+                        <hi>Richard Davis</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Blessing</hi>
+                     </cell>
+                     <cell>
+                        <hi>New England</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Nelson</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>20</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Ʋnity</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Reeves</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>18</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Owners Goodwill.</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Martin</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Marygold</hi>
+                     </cell>
+                     <cell>
+                        <hi>Weymouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Cox</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Crown</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Thomas Shepherd</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>21</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Kent</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Tregony</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>54</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>John</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dublin</hi>
+                     </cell>
+                     <cell>
+                        <hi>George Frockson</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Katherine</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dartmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Mills</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Virginia Merchant</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Trefry</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>18</cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Elizabeth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Poole</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Williams</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Nov.</hi> 1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>John</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dublin</hi>
+                     </cell>
+                     <cell>
+                        <hi>Patrick Bennett</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>9</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Rose</hi>
+                     </cell>
+                     <cell>
+                        <hi>Boston, N. Eng.</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Fernell</hi>
+                     </cell>
+                     <cell>Escaped.</cell>
+                     <cell>7</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Phoenix</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bedford</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Melear</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Charles</hi>
+                     </cell>
+                     <cell>
+                        <hi>Topsham</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Cabell</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>Some wanting. 9</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>John and Thomas</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Baley</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>James</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>Arnold Showell.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Charles</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Coles</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Elizabeth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Darby</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>11</cell>
+                     <cell>1678</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Dragon</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bridgwater</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Darchred</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>9</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Providence</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Edward Patten</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Charles</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Trotterdale</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Seth Dogger</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>George Symonds</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Dec.</hi> 7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Prudence</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dartmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Matthew Smith</hi>
+                     </cell>
+                     <cell>Redeemed. 20 men Escaped.</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Dec.</hi> 9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Edward and Ann</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Hen. Webster, ab Canary.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Nightingale</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Turner, ab Canary</hi> with 192 Pipes.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Dec.</hi> 15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Thomas</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>ab Maderas.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Henry</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>ab Virginia.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Endeavour</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Mile</hi>
+                     </cell>
+                     <cell>Drowned.</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>Jan.</hi> 5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Friendship</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Chalk</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Bonaventure</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Fern</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>18</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Adventure</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Atwood</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>13</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Defence</hi>
+                     </cell>
+                     <cell>
+                        <hi>Youghall</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Witty</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Hope</hi>
+                     </cell>
+                     <cell>
+                        <hi>Kingsale</hi>
+                     </cell>
+                     <cell>
+                        <hi>Andrew Browne</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Amity</hi>
+                     </cell>
+                     <cell>
+                        <hi>Kingsale</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Leneza</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>June</hi> 19</cell>
+                     <cell>1679.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Mary and Ann</hi>
+                     </cell>
+                     <cell>
+                        <hi>Yarmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Richard Taylor</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Hannah Ketch</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stoke</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Heatham</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Two Brothers</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Carter</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Centurion</hi>
+                     </cell>
+                     <cell>
+                        <hi>Yarmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Thomas Roberts</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>11</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>William and Samuel.</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Pevenes</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>25 killed, 21 saved, the Ship blown up. 46</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>St. Martin</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Edward Burfett</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>8</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Dover</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Harris</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>19</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Elizabeth</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Watts</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>8</cell>
+                     <cell>
+                        <hi>July</hi> 2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Robert and Hester.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Stokes</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>32</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Nicholas</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Nicholas Ley</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Fairfax</hi>
+                     </cell>
+                     <cell>
+                        <hi>Hull</hi>
+                     </cell>
+                     <cell>
+                        <hi>George Ketch</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Conclusion</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Reading</hi>
+                     </cell>
+                     <cell>Redeemed.</cell>
+                     <cell>18</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Concord</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Baker</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>23</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Endeavour</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Abraham Newham.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>20</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Mary-flower</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Griffin</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Mary</hi>
+                     </cell>
+                     <cell>
+                        <hi>Topsham</hi>
+                     </cell>
+                     <cell>
+                        <hi>Simon Meuis</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>Sept.</hi> 7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Speedwell</hi>
+                     </cell>
+                     <cell>
+                        <hi>Topsham</hi>
+                     </cell>
+                     <cell>
+                        <hi>George Talear</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Resolution</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dartmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Nicholas Lisson</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Seafare Ketch.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>Joseph Bowry</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Hopewell</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Francis Dyer</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Olive Branch Ketch</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Edward Barnes</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>St. Ann</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Matthew Tilly</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>Some wanting. 5</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Angel Gabriel</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Stone</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>Some wanting. 20</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Simon and Peter</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dartmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Zachary Smith</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>St. Mallows Merchant</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Peter Tapparell</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>The rest wanting. 2</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Ann</hi>
+                     </cell>
+                     <cell>
+                        <hi>Plimouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Harris</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>
+                        <hi>Octob.</hi> 3</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Gambia Hoy</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Christopher Fogg</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Lawrell</hi>
+                     </cell>
+                     <cell>
+                        <hi>New Yarmouth</hi>
+                     </cell>
+                     <cell>
+                        <hi>Edward Hall</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Diamond</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Thomas Willy</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>In Company 35, 27 killed, 8 saved.</cell>
+                     <cell>
+                        <hi>Nov.</hi> 8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>George Dogger</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>John Bemon</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Straights Merchant</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Browning</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>Were of Sea-men dead. 28</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Sea-flower</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Ward</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>18</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Pearle</hi>
+                     </cell>
+                     <cell>
+                        <hi>Barnstable</hi>
+                     </cell>
+                     <cell>
+                        <hi>Robert Gamon</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Endeavour</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Shepherd.</hi>
+                     </cell>
+                     <cell>Escaped</cell>
+                     <cell>Six Taken. 6</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Friendship Ketch.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Thomas Grafford</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>George</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Redman</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>Some wanting. 4</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Margarett</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>George Crow</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>5 Dead in fight. 15</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Isaac and Benjamin</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Barstow</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Dec.</hi> 6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Friendship</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Richard Coxford</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>11</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Valentine</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Valentine Veber</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Prudence Ketch</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Samuel Crisp.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Prince</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bristol</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Needes</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Swan</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Roger Browne</hi>
+                     </cell>
+                     <cell>Dead.</cell>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>Jan.</hi> 5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Desire Ketch</hi>
+                     </cell>
+                     <cell>
+                        <hi>Chester</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Society</hi>
+                     </cell>
+                     <cell>
+                        <hi>Rye</hi>
+                     </cell>
+                     <cell>
+                        <hi>Joseph Martin</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Rose</hi>
+                     </cell>
+                     <cell>
+                        <hi>Colerain</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Crawford</hi>
+                     </cell>
+                     <cell>At <hi>Algier.</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>19</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Ʋnity</hi>
+                     </cell>
+                     <cell>
+                        <hi>Boston, N. Eng.</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Condey</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>28</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>John Ketch</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Nathaniel Smith</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Feb.</hi> 24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Turkey Frigat</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>William Thwaites</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>39</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Bottomree Ketch</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Francis Kirken</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>March</hi> 1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>William Ketch</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Aaron Everdon</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Mar.</hi> 29</cell>
+                     <cell>1680.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Fidelity</hi>
+                     </cell>
+                     <cell>
+                        <hi>Southampton</hi>
+                     </cell>
+                     <cell>
+                        <hi>Samuel Cusse</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>31</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Danby</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Gregory Shugers</hi>
+                     </cell>
+                     <cell>Escaped with his Boat, and 21 men.</cell>
+                     <cell>Men in all 48</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Hannah and Elizabeth</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Richard Dix,</hi> from the <hi>Canaries,</hi> bound for <hi>London.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>July</hi> 15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>City Arms</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Daurest,</hi> from the <hi>Canaries,</hi> bound for <hi>London.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>William and Mary.</hi>
+                     </cell>
+                     <cell>
+                        <hi>New England</hi>
+                     </cell>
+                     <cell>
+                        <hi>Edw. Ashley, ab Carolina,</hi> laden with Tabaco, b. for <hi>Topsham.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Robert and Jane</hi>
+                     </cell>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>
+                        <hi>Edmond Ravens</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Octob.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>The Total is 153 Sail (besides others taken since this List came from <hi>Algiers</hi>) at 1000 <hi>l.</hi> each is</cell>
+                     <cell>153000</cell>
+                  </row>
+                  <row>
+                     <cell>The <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>goes fraight to the owners and his Majesties Customs at each 1000 <hi>l.</hi>
+                     </cell>
+                     <cell>153000</cell>
+                  </row>
+                  <row>
+                     <cell>The Men on Board 146 Sail are 1770, and if 80 on the 7 not accounted, there will be found 1850, at each Mans Ransome 100 <hi>l.</hi> is</cell>
+                     <cell>185000</cell>
+                  </row>
+                  <row>
+                     <cell>But in regard that the meanest Mans Ransome is set at near 100 <hi>l.</hi> and Masters and Gentlemen, or Merchant Passengers (who perhaps had their all on Board) are frequently set at 5, 6, 7, 8, 900 <hi>l.</hi> nay, sometimes 1000 <hi>l.</hi> There may be modestly added</cell>
+                     <cell>90000</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">500000</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Janeway,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
